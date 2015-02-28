@@ -5,6 +5,7 @@ A curated list of science- and engineering related repositories on GitHub and in
 * [Acoustics (underwater)](https://github.com/Hunter-Github/GitScience#acoustics-underwater)
 * [Radio](https://github.com/Hunter-Github/GitScience#radio)
 * [Orbital mechanics](https://github.com/Hunter-Github/GitScience#orbital-mechanics)
+* [Seismology](https://github.com/Hunter-Github/GitScience#seismology)
 
 ### Acoustics (underwater)
 * [Acoustic Toolbox](http://oalib.hlsresearch.com/Modes/AcousticsToolbox/) MatLab, Fortran
@@ -25,3 +26,7 @@ A curated list of science- and engineering related repositories on GitHub and in
 
 * [NASA's GMAT](http://gmat.sourceforge.net/)
 * [SGP4 and SDP4 ported to Javascript](https://github.com/shashwatak/satellite-js)
+
+### Seismology
+
+* [SPECFEM-3D](https://github.com/geodynamics/specfem3d)
