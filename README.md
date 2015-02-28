@@ -14,3 +14,5 @@ A curated list of science- and engineering related repositories on GitHub and in
 * SPLAT!
  * [Signal-Server](https://github.com/Cloud-RF/Signal-Server)
  * [splat](https://github.com/jmcmellen/splat)
+* VOACAP
+ * [voacapl](https://github.com/jawatson/voacapl) - a port to Linux
