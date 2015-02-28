@@ -22,6 +22,7 @@ A curated list of science- and engineering related repositories on GitHub and in
  * [voacapl](https://github.com/jawatson/voacapl) - a port to Linux
 * ITU-R models
  * [propagation](https://github.com/deepaknadig/propagation)
+* [QRadioPredict](http://qradiopredict.sourceforge.net/)
 
 ### Orbital mechanics
 
@@ -37,6 +38,7 @@ A curated list of science- and engineering related repositories on GitHub and in
 * [SPECFEM-3D](https://github.com/geodynamics/specfem3d)
 * [SPECFEM-3D-Globe](https://github.com/geodynamics/specfem3d_globe)
 * [SPECFEM-2D](https://github.com/geodynamics/specfem2d)
+* [SEM2DPACK](http://sem2d.sourceforge.net)
 
 ### Optics
 
