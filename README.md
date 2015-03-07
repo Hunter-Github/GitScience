@@ -6,6 +6,7 @@ A curated list of science- and engineering related repositories on GitHub and in
 * [Radio](https://github.com/Hunter-Github/GitScience#radio)
 * [Orbital mechanics](https://github.com/Hunter-Github/GitScience#orbital-mechanics)
 * [Seismology](https://github.com/Hunter-Github/GitScience#seismology)
+* [Meteorology](https://github.com/Hunter-Github/GitScience#meteorology)
 * [Optics](https://github.com/Hunter-Github/GitScience#optics)
 
 ### Acoustics (underwater)
@@ -39,6 +40,10 @@ A curated list of science- and engineering related repositories on GitHub and in
 * [SPECFEM-3D-Globe](https://github.com/geodynamics/specfem3d_globe)
 * [SPECFEM-2D](https://github.com/geodynamics/specfem2d)
 * [SEM2DPACK](http://sem2d.sourceforge.net)
+
+### Meteorology
+
+* [PyAOSlib](https://github.com/PyAOS/aoslib) - auxiliary routines in Fortran and Python
 
 ### Optics
 
