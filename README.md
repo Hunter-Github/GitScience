@@ -2,12 +2,18 @@
 A curated list of science- and engineering related repositories on GitHub and in neighboring counties
 
 ## Contents
-* [Acoustics (underwater)](https://github.com/Hunter-Github/GitScience#acoustics-underwater)
-* [Radio](https://github.com/Hunter-Github/GitScience#radio)
-* [Orbital mechanics](https://github.com/Hunter-Github/GitScience#orbital-mechanics)
-* [Seismology](https://github.com/Hunter-Github/GitScience#seismology)
-* [Meteorology](https://github.com/Hunter-Github/GitScience#meteorology)
-* [Optics](https://github.com/Hunter-Github/GitScience#optics)
+* Ocean
+ * [Acoustics (underwater)](https://github.com/Hunter-Github/GitScience#acoustics-underwater)
+* Earth
+ * [Seismology](https://github.com/Hunter-Github/GitScience#seismology)
+* Air
+ * [Meteorology](https://github.com/Hunter-Github/GitScience#meteorology)
+* Space
+ * [Orbital mechanics](https://github.com/Hunter-Github/GitScience#orbital-mechanics)
+ * [Astronomy](https://github.com/Hunter-Github/GitScience#astronomy)
+* Technology
+ * [Radio](https://github.com/Hunter-Github/GitScience#radio)
+ * [Optics](https://github.com/Hunter-Github/GitScience#optics)
 
 ### Acoustics (underwater)
 * [Acoustic Toolbox](http://oalib.hlsresearch.com/Modes/AcousticsToolbox/) MatLab, Fortran
@@ -48,3 +54,7 @@ A curated list of science- and engineering related repositories on GitHub and in
 ### Optics
 
 * [poppy](https://github.com/mperrin/poppy)
+
+### Astronomy
+
+* [NTL Asteroid Data Hunter](https://github.com/nasa/NTL-Asteroid-Data-Hunter) - an asteroid search program with a neat GUI 
