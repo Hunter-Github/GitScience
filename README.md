@@ -34,7 +34,7 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 ### Orbital mechanics
 
 * [NASA's GMAT](http://gmat.sourceforge.net/)
-* [SGP4 and SDP4 ported to Javascript](https://github.com/shashwatak/satellite-js)
+* [SGP4 and SDP4 ported to Javascript](https://github.com/shashwatak/satellite-js) - runs nicely on any system with a browser or with a Node.js engine.
 * [SPICE](http://naif.jpl.nasa.gov/naif/toolkit.html)
  * [in C](http://naif.jpl.nasa.gov/naif/toolkit_C.html)
  * [in Fortran](http://naif.jpl.nasa.gov/naif/toolkit_FORTRAN.html)
