@@ -35,10 +35,11 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 
 * [NASA's GMAT](http://gmat.sourceforge.net/)
 * [SGP4 and SDP4 ported to Javascript](https://github.com/shashwatak/satellite-js) - runs nicely on any system with a browser or with a Node.js engine.
-* [SPICE](http://naif.jpl.nasa.gov/naif/toolkit.html)
+* [SPICE](http://naif.jpl.nasa.gov/naif/toolkit.html) - many routines to use in space operations and astronomy.
  * [in C](http://naif.jpl.nasa.gov/naif/toolkit_C.html)
  * [in Fortran](http://naif.jpl.nasa.gov/naif/toolkit_FORTRAN.html)
 * [Orekit](http://orekit.org/)
+* [SpaceTrack API](https://github.com/benelsen/spacetrack) - a Node.js wrapper for [SpaceTrack](https://www.space-track.org) (USSTRATCOM) [TLE](https://en.wikipedia.org/wiki/Two-line_element_set) API.
 
 ### Seismology
 
