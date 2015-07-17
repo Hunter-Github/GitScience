@@ -38,6 +38,7 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 * [SPICE](http://naif.jpl.nasa.gov/naif/toolkit.html) - many routines to use in space operations and astronomy.
  * [in C](http://naif.jpl.nasa.gov/naif/toolkit_C.html)
  * [in Fortran](http://naif.jpl.nasa.gov/naif/toolkit_FORTRAN.html)
+ * [bindings for Python (PySPICE)](https://github.com/rca/PySPICE)
 * [Orekit](http://orekit.org/)
 * [benelsen/spacetrack SpaceTrack API](https://github.com/benelsen/spacetrack) - a Node.js wrapper for [SpaceTrack](https://www.space-track.org) (USSTRATCOM) [TLE](https://en.wikipedia.org/wiki/Two-line_element_set) API.
 * [benelsen/orb](https://github.com/benelsen/orb) - helper JavaScript routines for orbital mechanics problems.
@@ -60,3 +61,5 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 ### Astronomy
 
 * [NTL Asteroid Data Hunter](https://github.com/nasa/NTL-Asteroid-Data-Hunter) - an asteroid search program with a neat GUI 
+* [Binary classification of RR (AB) stars](https://github.com/johnh2o2/rrlyrclassification)
+* [Tkinter program to visualize lightcurves](https://github.com/johnh2o2/pyvislc)
