@@ -43,6 +43,7 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 * [benelsen/spacetrack SpaceTrack API](https://github.com/benelsen/spacetrack) - a Node.js wrapper for [SpaceTrack](https://www.space-track.org) (USSTRATCOM) [TLE](https://en.wikipedia.org/wiki/Two-line_element_set) API.
 * [benelsen/orb](https://github.com/benelsen/orb) - helper JavaScript routines for orbital mechanics problems.
 * [The Primary Repository for code relating to Icarus Interstellar's Project Voyager](https://github.com/zachfejes/ProjectVoyager)
+* [Trajectory optimization tool](https://github.com/Arrowstar/ksptot) - multiple gravity assist planning code.
 
 ### Seismology
 
