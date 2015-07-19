@@ -14,6 +14,7 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 * Technology
  * [Radio](https://github.com/Hunter-Github/GitScience#radio)
  * [Optics](https://github.com/Hunter-Github/GitScience#optics)
+ * [Nuclear technology](https://github.com/Hunter-Github/GitScience#nuclear-technology)
 
 ### Acoustics (underwater)
 * [Acoustic Toolbox](http://oalib.hlsresearch.com/Modes/AcousticsToolbox/) MatLab, Fortran
@@ -59,6 +60,10 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 ### Optics
 
 * [poppy](https://github.com/mperrin/poppy)
+
+### Nuclear technology
+
+* [Method of characteristics](https://github.com/mit-crpg/OpenMOC) - nuclear reactor physics calculations from MIT.
 
 ### Astronomy
 
