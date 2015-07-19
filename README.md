@@ -42,6 +42,7 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 * [Orekit](http://orekit.org/)
 * [benelsen/spacetrack SpaceTrack API](https://github.com/benelsen/spacetrack) - a Node.js wrapper for [SpaceTrack](https://www.space-track.org) (USSTRATCOM) [TLE](https://en.wikipedia.org/wiki/Two-line_element_set) API.
 * [benelsen/orb](https://github.com/benelsen/orb) - helper JavaScript routines for orbital mechanics problems.
+* [The Primary Repository for code relating to Icarus Interstellar's Project Voyager](https://github.com/zachfejes/ProjectVoyager)
 
 ### Seismology
 
@@ -63,3 +64,4 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 * [NTL Asteroid Data Hunter](https://github.com/nasa/NTL-Asteroid-Data-Hunter) - an asteroid search program with a neat GUI 
 * [Binary classification of RR (AB) stars](https://github.com/johnh2o2/rrlyrclassification)
 * [Tkinter program to visualize lightcurves](https://github.com/johnh2o2/pyvislc)
+* [A code to compute the abundances of chemical species in the interstellar medium](https://github.com/smaret/astrochem) - software written by Sébastien Maret.
