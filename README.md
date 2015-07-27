@@ -45,6 +45,7 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 * [benelsen/orb](https://github.com/benelsen/orb) - helper JavaScript routines for orbital mechanics problems.
 * [The Primary Repository for code relating to Icarus Interstellar's Project Voyager](https://github.com/zachfejes/ProjectVoyager)
 * [Trajectory optimization tool](https://github.com/Arrowstar/ksptot) - multiple gravity assist planning code.
+* [virtual Apollo Guidance Computer](https://github.com/rburkey2005/virtualagc) - awesome simulation of real-life Apollo Guidance Computer by Ron Burkey.
 
 ### Seismology
 
