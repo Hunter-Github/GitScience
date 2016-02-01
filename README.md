@@ -65,6 +65,7 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 ### Nuclear technology
 
 * [Method of characteristics](https://github.com/mit-crpg/OpenMOC) - nuclear reactor physics calculations from MIT.
+* [Models for nuclear reactor benchmarks](https://github.com/mit-crpg/benchmarks) - another repo from the same MIT group.
 
 ### Astronomy
 
