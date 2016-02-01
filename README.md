@@ -72,3 +72,4 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 * [Binary classification of RR (AB) stars](https://github.com/johnh2o2/rrlyrclassification)
 * [Tkinter program to visualize lightcurves](https://github.com/johnh2o2/pyvislc)
 * [A code to compute the abundances of chemical species in the interstellar medium](https://github.com/smaret/astrochem) - software written by Sébastien Maret.
+* [SunPy](https://github.com/sunpy/sunpy) - Python for solar physics.
