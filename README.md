@@ -4,6 +4,7 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 ## Contents
 * Ocean
  * [Acoustics (underwater)](https://github.com/Hunter-Github/GitScience#acoustics-underwater)
+ * [Oceanography in general](https://github.com/Hunter-Github/GitScience#oceanography-general)
 * Earth
  * [Seismology](https://github.com/Hunter-Github/GitScience#seismology)
 * Air
@@ -20,7 +21,10 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 * [Acoustic Toolbox](http://oalib.hlsresearch.com/Modes/AcousticsToolbox/) MatLab, Fortran
  * [ACT](http://cmst.curtin.edu.au/products/actoolbox.cfm) - GUI for the Acoustic Toolbox
 * [cTraceo](https://github.com/EyNuel/cTraceo) Does not require MatLab
- 
+
+### Oceanography (general)
+ * [OCE for R](https://github.com/dankelley/oce) - a smorgasbord of useful commands to process oceanographic datasets
+
 ### Radio
 
 * SPLAT!
