@@ -16,6 +16,7 @@ A list of science- and engineering related repositories on GitHub and in neighbo
  * [Radio](https://github.com/Hunter-Github/GitScience#radio)
  * [Optics](https://github.com/Hunter-Github/GitScience#optics)
  * [Nuclear technology](https://github.com/Hunter-Github/GitScience#nuclear-technology)
+* [Chemistry](https://github.com/Hunter-Github/GitScience#chemistry)
 
 ### Acoustics (underwater)
 * [Acoustic Toolbox](http://oalib.hlsresearch.com/Modes/AcousticsToolbox/) MatLab, Fortran
@@ -78,3 +79,8 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 * [Tkinter program to visualize lightcurves](https://github.com/johnh2o2/pyvislc)
 * [A code to compute the abundances of chemical species in the interstellar medium](https://github.com/smaret/astrochem) - software written by Sébastien Maret.
 * [SunPy](https://github.com/sunpy/sunpy) - Python for solar physics.
+
+### Chemistry
+
+* [GROMACS](https://github.com/gromacs/gromacs) - a molecular simulation toolkit, main site [here](http://www.gromacs.org/).
+
