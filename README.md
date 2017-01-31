@@ -66,6 +66,7 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 ### Optics
 
 * [poppy](https://github.com/mperrin/poppy)
+* [Py6S](https://github.com/robintw/Py6S) - interface to 6S radiative transfer codes
 
 ### Nuclear technology
 
