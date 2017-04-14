@@ -5,7 +5,7 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 
 #### Ocean
 
-* [Acoustics (underwater)](https://github.com/Hunter-Github/GitScience#acoustics-underwater)
+ * [Acoustics (underwater)](https://github.com/Hunter-Github/GitScience#acoustics-underwater)
  * [Oceanography in general](https://github.com/Hunter-Github/GitScience#oceanography-general)
 
 #### Earth
@@ -26,12 +26,12 @@ A list of science- and engineering related repositories on GitHub and in neighbo
  * [Radio](https://github.com/Hunter-Github/GitScience#radio)
  * [Optics](https://github.com/Hunter-Github/GitScience#optics)
  * [Nuclear technology](https://github.com/Hunter-Github/GitScience#nuclear-technology)
-* [Chemistry](https://github.com/Hunter-Github/GitScience#chemistry)
+ * [Chemistry](https://github.com/Hunter-Github/GitScience#chemistry)
 
 ### Acoustics (underwater)
 
 * [Acoustic Toolbox](http://oalib.hlsresearch.com/Modes/AcousticsToolbox/) MatLab, Fortran
- * ... [ACT](http://cmst.curtin.edu.au/products/actoolbox.cfm) - GUI for the Acoustic Toolbox
+    * ... [ACT](http://cmst.curtin.edu.au/products/actoolbox.cfm) - GUI for the Acoustic Toolbox
 * [cTraceo](https://github.com/EyNuel/cTraceo) Does not require MatLab
 
 ### Oceanography (general)
@@ -41,12 +41,12 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 ### Radio
 
 * SPLAT!
- * ... [Signal-Server](https://github.com/Cloud-RF/Signal-Server)
- * ... [splat](https://github.com/jmcmellen/splat)
+    * ... [Signal-Server](https://github.com/Cloud-RF/Signal-Server)
+    * ... [splat](https://github.com/jmcmellen/splat)
 * VOACAP
- * ... [voacapl](https://github.com/jawatson/voacapl) - a port to Linux
+    * ... [voacapl](https://github.com/jawatson/voacapl) - a port to Linux
 * ITU-R models
- * ... [propagation](https://github.com/deepaknadig/propagation)
+    * ... [propagation](https://github.com/deepaknadig/propagation)
 * [QRadioPredict](http://qradiopredict.sourceforge.net/)
 
 ### Orbital mechanics
@@ -54,15 +54,18 @@ A list of science- and engineering related repositories on GitHub and in neighbo
 * [NASA's GMAT](http://gmat.sourceforge.net/)
 * [SGP4 and SDP4 ported to Javascript](https://github.com/shashwatak/satellite-js) - runs nicely on any system with a browser or with a Node.js engine.
 * [SPICE](http://naif.jpl.nasa.gov/naif/toolkit.html) - many routines to use in space operations and astronomy.
- * ... [in C](http://naif.jpl.nasa.gov/naif/toolkit_C.html)
- * ... [in Fortran](http://naif.jpl.nasa.gov/naif/toolkit_FORTRAN.html)
- * ... [bindings for Python (PySPICE)](https://github.com/rca/PySPICE)
+    * ... [in C](http://naif.jpl.nasa.gov/naif/toolkit_C.html)
+    * ... [in Fortran](http://naif.jpl.nasa.gov/naif/toolkit_FORTRAN.html)
+    * ... [bindings for Python (PySPICE)](https://github.com/rca/PySPICE)
 * [Orekit](http://orekit.org/)
 * [benelsen/spacetrack SpaceTrack API](https://github.com/benelsen/spacetrack) - a Node.js wrapper for [SpaceTrack](https://www.space-track.org) (USSTRATCOM) [TLE](https://en.wikipedia.org/wiki/Two-line_element_set) API.
 * [benelsen/orb](https://github.com/benelsen/orb) - helper JavaScript routines for orbital mechanics problems.
 * [The Primary Repository for code relating to Icarus Interstellar's Project Voyager](https://github.com/zachfejes/ProjectVoyager)
 * [Trajectory optimization tool](https://github.com/Arrowstar/ksptot) - multiple gravity assist planning code.
 * [virtual Apollo Guidance Computer](https://github.com/rburkey2005/virtualagc) - awesome simulation of real-life Apollo Guidance Computer by Ron Burkey.
+* [Basilisk](http://hanspeterschaub.info/bskMain.html) (hat tip to [ChrisR](https://space.stackexchange.com/users/1391/chrisr)) a modular C/C++ astrodynamics simulation framework with Python scripting. Likely the highest fidelity attitude control simulation, algorithms used in ADCS of the upcoming EMM mission.
+* [smd](https://github.com/ChristopherRabotin/smd) - (hat tip to [ChrisR](https://space.stackexchange.com/users/1391/chrisr)) a mission propagator for continuous thrusting via way-point targeting. Can also be used for statistical orbital determination given range and range-rate information. Written in Go.
+* [poliastro](https://github.com/poliastro/poliastro/) (hat tip to [ChrisR](https://space.stackexchange.com/users/1391/chrisr)) a set of Python routines for astrodynamics with an emphasis on interplanetary mission design.
 
 ### Seismology
 
